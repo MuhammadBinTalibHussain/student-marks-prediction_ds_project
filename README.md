@@ -111,7 +111,5 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Streamlit 
 
 ## Author
 
-**Your Name** – CS 4048 Data Science, FAST-NUCES Faisalabad
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
-
+**Muhammad Bin Talib Hussain** – CS 4048 Data Science, FAST-NUCES Faisalabad
 *This project was created for educational purposes.*
